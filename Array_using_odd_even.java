@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.io.*;
-class HelloWorld {
+class OddorEven {
     public static void main(String[] args) {
         Scanner me=new Scanner(System.in);
         System.out.printf("Enter the number of rage=");
